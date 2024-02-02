@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '90cd4a77-141a-43c9-991b-08263cfe9c10';
 
-let proxyIP = ['proxyip.fxxk.dedyn.io','proxyip.fuck.cloudns.biz'];// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。
+let proxyIP = ['[2a01:4f8:c2c:123f:64:5:ac40:6c0a]','[2a00:1098:2b::1:ac40:6c0a]','proxyip.fxxk.dedyn.io','103.200.112.108','23.162.136.169'];// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。
 
 //let sub = '';// 留空则显示原版内容
 let sub = 'sub.cmliucdn.tk';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
